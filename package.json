@@ -27,7 +27,7 @@
   "dependencies": {
     "@dqbd/tiktoken": "^1.0.7",
     "axios": "^1.4.0",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.5.0",
     "event-stream": "^4.0.1",
     "fake-useragent": "^1.0.1",
     "http-proxy-agent": "^6.0.1",
